@@ -35,7 +35,7 @@
         "manager":              "https://cdn.radiant.dj/rcs/icons/radiant/manager.png",
         "bouncer":              "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
         "rdj":                  "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
-        "subscriber":           "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
+        "subscriber":           "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png",
     },
     "autocomplete": [],
     "emotes": {
