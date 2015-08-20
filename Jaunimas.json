@@ -1,7 +1,33 @@
 {
-    "icon":                     "http://i.imgur.com/r1gEam8.jpg",
+    "room":                     "Radiant Music",
+    "author":                   "Origin",
+    "icon":                     "https://cdn.radiant.dj/rcs/icons/radiant/logo.png",
+    "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
+    "rules": {
+        "allowAutorespond":     true,
+        "allowAutowoot":        true,
+        "allowAutojoin":        false,
+        "allowAutograb":        true,
+        "allowSmartVote":       true,
+        "allowEmotes":          true,
+        "allowShowingMehs":     true,
+        "forceSmartVote":       false
+    },
+    "ccc": {
+        "admin":                "#FFF8DC",
+        "ambassador":           "#228B22",
+        "host":                 "#DC143C",
+        "cohost":               "#DC143C",
+        "manager":              "#0000FF",
+        "bouncer":              "#FFD700",
+        "rdj":                  "#F4A460",
+        "subscriber":           "#40E0D0",
+        "friend":               "#B35D88",
+        "user":                 "#8B92A3"
+    },
     "images": {
-        "background": "http://www.part.lt/img/01066742aa1d5ad7272b3fe112a380f8878.jpg",
+        "background":           "http://www.part.lt/img/01066742aa1d5ad7272b3fe112a380f8878.jpg",
+        "playback":             null,
         "admin":                "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
         "ambassador":           "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
         "host":                 "https://cdn.radiant.dj/rcs/icons/radiant/host.png",
@@ -10,17 +36,9 @@
         "bouncer":              "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
         "rdj":                  "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
         "subscriber":           "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
-      },
-        "ccc": {
-        "admin":                "#42A5DC",
-        "ambassador":           "#228B22",
-        "host":                 "#DC143C",
-        "cohost":               "#DC143C",
-        "manager":              "#0000FF",
-        "bouncer":              "#FFD700",
-        "rdj":                  "#5DB4FF",
-        "subscriber":           "#40E0D0",
-        "friend":               "#B35D88",
-        "user":                 "#8B92A3"
+    },
+    "autocomplete": [],
+    "emotes": {
+        "custom_test": "https://cdn.radiant.dj/rcs/icons/test_custom.png"
     }
 }
