@@ -1,7 +1,7 @@
 {
-    "room":                     "LietuvosJaunimas",
-    "author":                   "LietuvosJaunimas",
-    "icon":                     "http://www.part.lt/img/642ccedc99cdf540760b9e089658cb2c576.jpg",
+    "room":                     "Lietuvos Jaunimas",
+    "author":                   "Jaunimas",
+    "icon":                     "https://cdn.radiant.dj/rcs/icons/radiant/logo.png",
     "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
     "rules": {
         "allowAutorespond":     true,
@@ -14,8 +14,8 @@
         "forceSmartVote":       false
     },
     "ccc": {
-        "admin":                "#FFF8DC",
-        "ambassador":           "#228B22",
+        "admin":                "#42A5DC",
+        "ambassador":           "#84B423",
         "host":                 "#DC143C",
         "cohost":               "#DC143C",
         "manager":              "#0000FF",
@@ -23,10 +23,11 @@
         "rdj":                  "#F4A460",
         "subscriber":           "#40E0D0",
         "friend":               "#B35D88",
-        "user":                 "#8B92A3"
+        "user":                 "#B0C4DE",
     },
     "images": {
         "background":           "http://www.part.lt/img/01066742aa1d5ad7272b3fe112a380f8248.jpg",
+        "playback":             null,
         "admin":                "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
         "ambassador":           "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
         "host":                 "https://cdn.radiant.dj/rcs/icons/radiant/host.png",
@@ -34,8 +35,8 @@
         "manager":              "https://cdn.radiant.dj/rcs/icons/radiant/manager.png",
         "bouncer":              "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
         "rdj":                  "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
-        "subscriber":           "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png",
-        
+        "subscriber":           "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
+    },
     "autocomplete": [],
     "emotes": {
         "custom_test": "https://cdn.radiant.dj/rcs/icons/test_custom.png"
