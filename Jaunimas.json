@@ -1,7 +1,7 @@
 {
     "room":                     "Lietuvos Jaunimas",
     "author":                   "Jaunimas",
-    "icon":                     null,
+    "icon":                     "http://www.part.lt/img/b185c2417beb1224d7609c0188d4ccbd235.jpg",
     "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
     "rules": {
         "allowAutorespond":     true,
