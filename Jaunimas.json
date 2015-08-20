@@ -23,7 +23,7 @@
         "rdj":                  "#F4A460",
         "subscriber":           "#40E0D0",
         "friend":               "#B35D88",
-        "user":                 "#B0C4DE",
+        "user":                 "#B0C4DE"
     },
     "images": {
         "background":           "http://www.part.lt/img/01066742aa1d5ad7272b3fe112a380f8248.jpg",
@@ -35,7 +35,7 @@
         "manager":              "https://cdn.radiant.dj/rcs/icons/radiant/manager.png",
         "bouncer":              "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
         "rdj":                  "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
-        "subscriber":           "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png",
+        "subscriber":           "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
     },
     "autocomplete": [],
     "emotes": {
