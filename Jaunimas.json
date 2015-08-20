@@ -26,7 +26,7 @@
         "user":                 "#B0C4DE"
     },
     "images": {
-        "background":           "http://www.part.lt/img/01066742aa1d5ad7272b3fe112a380f8248.jpg",
+        "background":           "https://cdn.radiant.dj/rcs/bg/16.png",
         "playback":             null,
         "admin":                "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
         "ambassador":           "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
