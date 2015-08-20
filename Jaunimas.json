@@ -1,7 +1,7 @@
 {
-    "room":                     "Radiant Music",
-    "author":                   "Origin",
-    "icon":                     "https://cdn.radiant.dj/rcs/icons/radiant/logo.png",
+    "room":                     "LietuvosJaunimas",
+    "author":                   "LietuvosJaunimas",
+    "icon":                     "http://www.part.lt/img/642ccedc99cdf540760b9e089658cb2c576.jpg",
     "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
     "rules": {
         "allowAutorespond":     true,
