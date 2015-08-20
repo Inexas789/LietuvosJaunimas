@@ -1,7 +1,7 @@
 {
     "room":                     "Lietuvos Jaunimas",
     "author":                   "Jaunimas",
-    "icon":                     "http://www.part.lt/img/b185c2417beb1224d7609c0188d4ccbd443.jpg",
+    "icon":                     null,
     "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
     "rules": {
         "allowAutorespond":     true,
@@ -27,7 +27,7 @@
     },
     "images": {
         "background":           "https://cdn.radiant.dj/rcs/bg/16.png",
-        "playback":             null,
+        "playback":             "http://www.part.lt/img/b185c2417beb1224d7609c0188d4ccbd235.jpg",
         "admin":                "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
         "ambassador":           "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
         "host":                 "http://www.part.lt/img/514ac7e798669aa522d3d442608c17cb203.png",
