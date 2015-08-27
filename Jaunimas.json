@@ -2,7 +2,7 @@
     "room":                     "Lietuvos Jaunimas",
     "author":                   "Inexas",
     "icon":                     "http://i.imgur.com/2xQpOh6.gif",
-    "css":                      "https://rawgit.com/donvoo/gsD.CS/master/gsD.min.css",
+    "css":                      "https://rawgit.com/MRFALSE/MFE/master/style.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
