@@ -26,15 +26,15 @@
         "user":                 "#B0C4DE"
     },
     "images": {
-        "background":           "https://cdn.radiant.dj/rcs/bg/14.png",
+        "background":           "http://i.imgur.com/tOEACrk.png",
         "playback":             "http://www.part.lt/img/b185c2417beb1224d7609c0188d4ccbd235.jpg",
         "admin":                "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
         "ambassador":           "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
-        "host":                 "http://www.part.lt/img/6d45c0edf13648af4d3f7afdb58e9191384.png",
-        "cohost":               "http://www.part.lt/img/6d45c0edf13648af4d3f7afdb58e9191384.png",
+        "host":                 "http://www.part.lt/img/dc865b186dd23eda44250f5bcc5aefb8866.png",
+        "cohost":               "http://www.part.lt/img/dc865b186dd23eda44250f5bcc5aefb8866.png",
         "manager":              "http://www.part.lt/img/1573c01eccad524595350fd1ed3a6db7703.png",
         "bouncer":              "http://www.part.lt/img/c72f7d99e8a4c660643655c479222a63238.png",
-        "rdj":                  "http://www.part.lt/img/430b6ac013c9c881005b703fd0f1b445518.png",
+        "rdj":                  "http://www.part.lt/img/9870a46b9283fce3fe61124f4222e0d7473.png",
         "subscriber":           "http://www.part.lt/img/140316ce2f48698a45b6e5b2b1ec0625815.png"
     },
     "autocomplete": [],
