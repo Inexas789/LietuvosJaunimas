@@ -16,14 +16,14 @@
     "ccc": {
         "admin":                "#42A5DC",
         "ambassador":           "#84B423",
-        "host":                 "#228B22",
-        "cohost":               "#008000",
-        "manager":              "#1E90FF",
-        "bouncer":              "#FFD700",
-        "rdj":                  "#F4A460",
-        "subscriber":           "#40E0D0",
-        "friend":               "#B35D88",
-        "user":                 "#B0C4DE"
+        "host":                 "#580000",
+        "cohost":               "#580000",
+        "manager":              "#008080",
+        "bouncer":              "#808000",
+        "rdj":                  "#FF7F50",
+        "subscriber":           "#DEB887",
+        "friend":               "#8FBC8F",
+        "user":                 "#FAEBD7"
     },
     "images": {
         "background":           "https://i.imglol.de/plug-dj-layout9wsobn.png",
