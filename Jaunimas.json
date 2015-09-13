@@ -16,14 +16,14 @@
     "ccc": {
         "admin":                "#42A5DC",
         "ambassador":           "#84B423",
-        "host":                 "#FF0033",
-        "cohost":               "#FF0033",
+        "host":                 "#228B22",
+        "cohost":               "#008000",
         "manager":              "#1E90FF",
         "bouncer":              "#FFD700",
         "rdj":                  "#F4A460",
-        "subscriber":           "#DEB887",
-        "friend":               "#8FBC8F",
-        "user":                 "#FAEBD7"
+        "subscriber":           "#40E0D0",
+        "friend":               "#B35D88",
+        "user":                 "#B0C4DE"
     },
     "images": {
         "background":           "https://i.imgur.com/o8U69An.jpg",
