@@ -6,7 +6,7 @@
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
-        "allowAutojoin":        false,
+        "allowAutojoin":        true,
         "allowAutograb":        true,
         "allowSmartVote":       true,
         "allowEmotes":          true,
@@ -26,7 +26,7 @@
         "user":                 "#B0C4DE"
     },
     "images": {
-        "background":           "https://i.imgur.com/o8U69An.jpg",
+        "background":           "http://i.imgur.com/Usz5qRh.jpg",
         "playback":             "",
         "admin":                "",
         "ambassador":           "",
