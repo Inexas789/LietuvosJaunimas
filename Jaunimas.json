@@ -16,7 +16,7 @@
     "ccc": {
         "admin":                "#42A5DC",
         "ambassador":           "#84B423",
-        "host":                 "#228B22",
+        "host":                 "#8B0000",
         "cohost":               "#008000",
         "manager":              "#1E90FF",
         "bouncer":              "#FFD700",
@@ -26,7 +26,7 @@
         "user":                 "#B0C4DE"
     },
     "images": {
-        "background":           "http://i.imgur.com/Usz5qRh.jpg",
+        "background":           "https://cdn.radiant.dj/rcs/bg/3.png",
         "playback":             "",
         "admin":                "",
         "ambassador":           "",
